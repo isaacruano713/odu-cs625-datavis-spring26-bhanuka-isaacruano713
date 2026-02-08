@@ -8,7 +8,7 @@ Due: Sunday, February 8, 2026
 
 ### Q1 - URL of GitHub Repo
 
-[Insert your answer and explanation here](https://github.com/isaacruano713/odu-cs625-datavis-spring26-bhanuka-isaacruano713/tree/main)
+[https://github.com/isaacruano713/odu-cs625-datavis-spring26-bhanuka-isaacruano713/tree/main](https://github.com/isaacruano713/odu-cs625-datavis-spring26-bhanuka-isaacruano713/tree/main)
 
 ### Q2 - Pull Command
 

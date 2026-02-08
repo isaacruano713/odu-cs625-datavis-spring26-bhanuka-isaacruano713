@@ -8,15 +8,15 @@ Due: Sunday, February 8, 2026
 
 ### Q1 - URL of GitHub Repo
 
-Insert your answer and explanation here
+[Insert your answer and explanation here](https://github.com/isaacruano713/odu-cs625-datavis-spring26-bhanuka-isaacruano713/tree/main)
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+The pull command sends remote changes to local.
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+If you committed a change locally but do not see it update on GitHub.com, that is because you did not push the commit. The change has not been shared with GitHub.
 
 ## Markdown
 

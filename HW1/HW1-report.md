@@ -37,7 +37,7 @@ The is different from a numbered list because numbered list use numbers, letters
 
 ### Q2 - Markdown Paragraph
 
-I remember the *dark*, *cold* night when the great **bad** attacked. I was tucked in bed, dead asleep, when the sound awoke me. _**Clickety Clackety**_, the nails of the creature tapped against the floor as it drew closer. I flashed open my eyes as soon as I heard it coming, but it was too late. The `creature` jumped on my bed and went straight for my face! And then he sniffed my, licked my face, and curled up before falling asleep with me. Happy that my dog was now by my side, I fell back ![asleep](https://paw-tastic-walks.com/dog-sleeping-next-to-you-at-night).
+I remember the *dark*, *cold* night when the great **bad** attacked. I was tucked in bed, dead asleep, when the sound awoke me. _**Clickety Clackety**_, the nails of the creature tapped against the floor as it drew closer. I flashed open my eyes as soon as I heard it coming, but it was too late. The `creature` jumped on my bed and went straight for my face! And then he sniffed my, licked my face, and curled up before falling asleep with me. Happy that my dog was now by my side, I fell back [asleep](https://paw-tastic-walks.com/wp-content/uploads/2025/12/Dog-Sleeping-Next-to-You-at-Night-1.jpg).
 
 ### Q3 - Animal Image
 

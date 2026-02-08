@@ -47,7 +47,7 @@ I remember the *dark*, *cold* night when the great **bad** attacked. I was tucke
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
+![Sales in the Central Region](Sales-in-the-Central-Region.png)
 
 ## Google Colab
 

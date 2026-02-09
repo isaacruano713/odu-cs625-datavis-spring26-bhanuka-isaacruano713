@@ -59,15 +59,19 @@ I remember the *dark*, *cold* night when the great **bad** attacked. I was tucke
 
 ### Q1 - First Penguin Image
 
-Insert your answer and explanation here
+![First Plot](CS-625-HW1-Python-Plot-1.png)
+
+This first plot is a scatterplot of the bill depth in millimeters vs the bill length. In the plot, it appears that there are three clusters, and within each cluster, there is a weak positive linear correlation between the bill depth and the bill length.
 
 ### Q2 - Second Penguin Image
 
-Insert your answer and explanation here
+![First Plot](CS-625-HW1-Python-Plot-2.png)
+
+This second plot is a bar plot of the average mass of each species of penguin. It appears that the Gentoo species tends to be quite a bit larger than the other two, but the other two species are very close in average mass.
 
 ### Q3 - Outer Parenthesis
 
-Insert your answer and explanation here
+When you remove the parentheses, you get a syntax error. You get this error because Python assumes that the first line of code is finished if there are no parentheses to indicate that the code should continue onto the next line. Because of this, Python reads the second line as something incomplete.
 
 ## Observable and Vega-Lite
 

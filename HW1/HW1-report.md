@@ -1,6 +1,6 @@
 # Homework 1: Tool Setup
 
-**Insert Your Name Here**  
+**Isaac Ruano**  
 CS 625, Spring 2026  
 Due: Sunday, February 8, 2026
 

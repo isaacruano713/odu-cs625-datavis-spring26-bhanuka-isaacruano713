@@ -77,24 +77,24 @@ When you remove the parentheses, you get a syntax error. You get this error beca
 
 ### Q1 - markCircle to markSquare
 
-Insert your answer and explanation here
+The shape of the marks on the scatterplot changed from a circle to a square.
 
 ### Q2 - markCircle to markPoint
 
-Insert your answer and explanation here
+The marks changed from filled in circles to empty circles.
 
 ### Q3 - Swap X and Y Axes on Scatterplot
 
-Insert your answer and explanation here
+To swap the X and Y axes in the scatterplot, you can swap the fields placed inside the last parentheses in `vl.x().fieldQ()` and `vl.y().fieldQ()`. It should now be `vl.x().fieldQ("Miles_per_gallon")` and `vl.y().fieldQ("Horsepower")`.
 
 ### Q4 - Remove fieldN(Origin)
 
-Insert your answer and explanation here
+![VegaLite Plot](CS-625-HW1-VegaLite-Plot.png)
+
+This chart is the result of the code change because when the origin field was removed, there no longer was a field to group the data by. Since none of the data is grouped, the whole data set was used. Since all the data was aggregated by caculating the count, there was only one resulting number, which should be equal to the total number of rows in the data set.
 
 ## References
 
-*Eavery report must include a References section that lists the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples.* ***Everyone will use some reference to complete these assignments (even I would). You will lose points on your assignment if you do not include the references you used.***
+*Every report must include a References section that lists the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples.* ***Everyone will use some reference to complete these assignments (even I would). You will lose points on your assignment if you do not include the references you used.***
 
-* Graph Network using Vega-Lite or Vega, <https://stackoverflow.com/questions/77096216/graph-network-using-vega-lite-or-vega>
-* Calculating percentage change - Math for journalists, <https://observablehq.com/@nshiab/math-for-journalists>
-* ChatGPT: "How can I add an axis label to my line chart in Seaborn?", <https://chatgpt.com/share/684c8e25-4944-8011-b265-ae9aefc07959>
+* ChatGPT: "If you have committed a change on your local machine, but do not see the update on GitHub.com, what step might have you forgotten?" <https://chatgpt.com/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_NAMER_US_EN_091724&c_id=21714513245&c_agid=169187630042&c_crid=713941893301&c_kwid={keywordid}&c_ims=&c_pms=9195561&c_nw=g&c_dvc=c&gad_source=1&gad_campaignid=21714513245&gbraid=0AAAAA-I0E5d_0LeOD-6zhv7MsKdmZ_NzS&gclid=Cj0KCQiAhaHMBhD2ARIsAPAU_D5yun8mQ8cAPYcflwLT7bZutGnQLv3Em6VFhpRVMgwYXyLOdWtcZmQaAiKFEALw_wcB>
